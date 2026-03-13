@@ -17,7 +17,7 @@ P.A.H.M TECHNOLOGIES FOR THE P.A.H.M FLIP TOOL SOFTWARE.
 
 3. RESTRICTIONS
    You may not:
-   - Modify, adapt, or reverse engineer the Software
+   - Modify, adapt, and/or reverse engineer the Software
    - Rent, lease, or sublicense the Software
    - Remove any proprietary notices or labels
    - Use the Software for any illegal purpose
